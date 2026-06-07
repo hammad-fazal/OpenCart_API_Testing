@@ -1,4 +1,4 @@
-# OpenCart API Testing Project (Postman)
+# OpenCart API Testing with Postman
 
 ## Overview
 
