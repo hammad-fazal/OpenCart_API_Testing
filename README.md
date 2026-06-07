@@ -50,7 +50,7 @@ The project follows an end-to-end customer workflow, starting from API authentic
 
 ---
 
-### 3. Get Cart Contents
+### 3. Get Cart Content
 
 **Method:** GET
 
